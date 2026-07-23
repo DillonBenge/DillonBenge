@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dillon </h1>
-<h3 align="center">🚀 Passionate Developer | 🎓 Student | 💡 Problem Solver</h3>
+<h3 align="center">🌙 Passionate about cybersecurity | 🎓 Student | 💻 Creator</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;I+love+building+cool+projects;Always+learning+new+things" />
@@ -39,9 +39,9 @@
 
 | Project | Description | Tech |
 |--------|------------|------|
-| 📊 **Music Festival Website** | One of my first websites, created for a hypothetical music festival. It offered animations, Validations, and email forms. Achieved a grade of **88%** | HTML, CSS, JavaScript |
-| 🌐 **Software Engineering** | A system design project for a student budgeting app, including project plans, system requirements and Use case diagrams. | Microsoft Office, Git, UML|
-| 🤖 **Insurance Policy Calculator** | Created an insurance calculator in Java that companies can use to create customer profiles, policies and claims, Complete with a front-End menu system. | Java |
+| 📊 **Music Festival Website** | Designed and developed an interactive website for a conceptual music festival featuring dynamic animations, client-side form validation, and integrated email subscription forms. (Grade: 88%) | HTML, CSS, JavaScript |
+| 🌐 **Software Engineering** | Authored full system design and architectural documentation for a student budgeting app, including comprehensive project plans, technical requirements, and UML use case diagrams. | Microsoft Office, Git, UML|
+| 🤖 **Insurance Policy Calculator** | Built an end-to-end Java application for managing insurance profiles, policies, and claims, complete with an interactive front-end menu interface. | Java |
 
 📌 *More projects available in my repositories!*
 
@@ -60,6 +60,9 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/dillonbenge/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    
+  <a href="https://www.instagram.com/dillonbenge//">
+    <img src=https://img.shields.io/badge/Instagram-blue?style=for-the-badge&logo=instagram/>
   </a>
 </p>
 
