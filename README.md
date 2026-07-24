@@ -50,7 +50,7 @@
 ### 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=AzariusO&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=DillonBenge&theme=tokyonight" />
 </p>
 
 ---
